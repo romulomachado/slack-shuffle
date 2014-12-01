@@ -1,7 +1,6 @@
 require 'sinatra'
 require 'httparty'
 require 'yaml'
-require 'pry'
 
 data = YAML.load_file(File.expand_path("./data.yml"))
 
