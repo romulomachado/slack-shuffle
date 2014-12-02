@@ -2,6 +2,8 @@
 
 This is an integration I build for Slack. When somebody types ```/shuffle```, it returns a list of team members shuffled for our stand up meeting order.
 
+![how it works](http://i.imgur.com/qt5z59C.gif)
+
 ## Adding it to your team's Slack
 
   1. Clone this repository
