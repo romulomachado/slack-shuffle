@@ -18,7 +18,7 @@ This is an integration I build for Slack. When somebody types ```/shuffle```, it
 
     ![Copy the URL provided](http://i.imgur.com/hc04yl0.png)
 
-  6. Create a [Heroku](heroku.com) app and upload the code.
+  6. Create a [Heroku](http://heroku.com) app and upload the code.
 
   7. [Create a Slash Command](https://my.slack.com/services/new/slash-commands) (we use ```/shuffle```, use whatever works better for you)
 
